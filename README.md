@@ -1,6 +1,8 @@
 # ¡Hola! Soy Emmanuel 🚀
+### **Estudiante de Ingeniería de Sistemas**
+📍 Porlamar, Venezuela | 🎓 Instituto Universitario Politécnico Santiago Mariño
 
-Desarrollador enfocado en el Backend y en la creación de software robusto. Me apasiona la arquitectura de APIs, la interconexión de servicios y la lógica de bajo nivel. Mi enfoque actual es construir sistemas eficientes y escalables que optimicen los flujos de trabajo mediante la automatización y la lógica de ingeniería.
+Desarrollador enfocado en el Backend y en la creación de software robusto.  Como futuro ingeniero, me apasiona la arquitectura de APIs, la interconexión de servicios y la lógica de bajo nivel. Mi enfoque actual es construir sistemas eficientes y escalables que optimicen los flujos de trabajo mediante la automatización y el pensamiento sistémico.
 
 ---
 
@@ -43,7 +45,7 @@ Desarrollo de lógica de bajo nivel en C para la simulación de procesos logíst
 ---
 
 ## 🎯 En qué estoy trabajando ahora
-- 🔭 Resolviendo desafíos de lógica avanzada en CodeWars (Nivel 5 kyu).
+- 🔭 Resolviendo desafíos de lógica en CodeWars.
 - 🏗️ Evolucionando la arquitectura del sistema Engineer RPG con Godot 4.6.
 - ⚙️ Investigando la interconexión de servicios y flujo de datos entre APIs.
 - 📖 Optimización de flujos de trabajo personales (Lectura: *Hábitos Atómicos*).
@@ -51,4 +53,4 @@ Desarrollo de lógica de bajo nivel en C para la simulación de procesos logíst
 ---
 
 ## 📫 Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-cede%C3%B1o-rodriguez-06162b324/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-dev-27-cedeno/)
